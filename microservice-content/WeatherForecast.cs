@@ -1,6 +1,6 @@
 using System;
 
-namespace Backend
+namespace microservice_content
 {
     public class WeatherForecast
     {
